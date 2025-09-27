@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Database
+db.sqlite3
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Media files
+media/
+
+# Virtual environment
+myenv/
