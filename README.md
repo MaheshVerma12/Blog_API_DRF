@@ -15,8 +15,8 @@ Here are some of the primary API endpoints:
     *   `POST /api/account/token/refresh/`: Refresh an expired access token.
 
 *   **Blog Posts:**
-    *   `GET /api/home/blogs/`: Get a list of all blog posts.
-    *   `POST /api/home/blogs/`: Create a new blog post.
-    *   `GET /api/home/blogs/<id>/`: Retrieve a specific blog post.
-    *   `PUT /api/home/blogs/<id>/`: Update a specific blog post.
-    *   `DELETE /api/home/blogs/<id>/`: Delete a specific blog post.
+    *   `GET /api/home/blog/`: Get a list of all blog posts.
+    *   `POST /api/home/blog/`: Create a new blog post.
+    *   `GET /api/home/blog/<id>/`: Retrieve a specific blog post.
+    *   `PUT /api/home/blog/<id>/`: Update a specific blog post.
+    *   `DELETE /api/home/blog/<id>/`: Delete a specific blog post.
