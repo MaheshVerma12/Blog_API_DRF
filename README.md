@@ -17,6 +17,5 @@ Here are some of the primary API endpoints:
 *   **Blog Posts:**
     *   `GET /api/home/blog/`: Get a list of all blog posts.
     *   `POST /api/home/blog/`: Create a new blog post.
-    *   `GET /api/home/blog/<id>/`: Retrieve a specific blog post.
     *   `PUT /api/home/blog/<id>/`: Update a specific blog post.
     *   `DELETE /api/home/blog/<id>/`: Delete a specific blog post.
